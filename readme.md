@@ -1,3 +1,12 @@
+
+
+[![Build Status](https://res.cloudinary.com/drqk6qzo7/image/upload/v1695330808/prueba2_nmj2py.png)](https://res.cloudinary.com/drqk6qzo7/image/upload/v1695330808/prueba2_nmj2py.png)
+
+
+
+[![Build Status](https://res.cloudinary.com/drqk6qzo7/image/upload/v1695330808/prueba1_safyaj.png)](https://res.cloudinary.com/drqk6qzo7/image/upload/v1695330808/prueba1_safyaj.png)
+
+
 npm i crypto
 npm init --yes
 npx eslint --init
